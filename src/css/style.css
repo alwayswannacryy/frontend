@@ -1,0 +1,44 @@
+body {
+    background-color: #f0ece0;
+}
+h1 {
+    color: #cc493d;
+    font-size: 50px;
+    text-align: center;
+}
+.author {
+    color:#cc493d;
+    text-align:center;
+}
+.content {
+    color:#cc493d;
+    text-align:center;
+}
+hr {
+    height: 1px;
+    border: 0;
+    background-color: #cbba86;
+}
+.I {
+    color:#cc493d;
+    text-align:center;
+}
+#ol1 {
+    color:#904d10;
+}
+#ol2 {
+    color:#904d10;
+}
+#ol3 {
+    color:#904d10;
+}
+#ol4 {
+    color:#904d10;
+}
+.si {
+    font-style: italic;
+}
+.II {
+    color:#cc493d;
+    text-align:center;
+}
