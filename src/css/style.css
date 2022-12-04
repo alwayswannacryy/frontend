@@ -23,22 +23,18 @@ hr {
     color:#cc493d;
     text-align:center;
 }
-#ol1 {
-    color:#904d10;
-}
-#ol2 {
-    color:#904d10;
-}
-#ol3 {
-    color:#904d10;
-}
-#ol4 {
-    color:#904d10;
-}
 .si {
     font-style: italic;
 }
 .II {
     color:#cc493d;
     text-align:center;
+}
+.box {
+    width: 300;
+    background-color:#cbba86;
+    height: 300;
+    padding: 50;
+    border: 5px solid #cc493d;
+    margin: 50;
 }
